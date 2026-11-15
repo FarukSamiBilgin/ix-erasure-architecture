@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. The manuscript is unpublished and in revision."
+title: "An erasure-biased architecture for interlayer-exciton position qubits in a gate-defined moiré trap lattice"
+authors:
+  - family-names: Bilgin
+    given-names: Faruk Sami
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0001-9064-4410"
+type: software
+license: MIT
+repository-code: "https://github.com/FarukSamiBilgin/ix-erasure-architecture"
+date-released: 2026-11-15
